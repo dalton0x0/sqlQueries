@@ -65,7 +65,7 @@ SELECT * FROM Auteur;
 
 ### Sélectionner tous les livres publiés après l'année 2000 :
 ```sh
-SELECT * FROM Livres WHERE annee > 2000;
+SELECT * FROM Livre WHERE annee > 2000;
 ```
 
 ### Sélectionner les emprunts où la date de retour est manquante (NULL) :
